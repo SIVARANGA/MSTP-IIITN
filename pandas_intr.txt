@@ -1,0 +1,16 @@
+Pandas is a library built using NumPy specifically for data analysis. You'll be using Pandas heavily for data manipulation, visualisation, building machine learning models, etc.
+
+There are two main data structures in Pandas - Series and Dataframes. The default way to store data is dataframes, and thus manipulating dataframes quickly is probably the most important skill set for data analysis.
+
+Source: https://pandas.pydata.org/pandas-docs/stable/overview.html
+
+In this section, you will study:
+
+The pandas Series (similar to a numpy array)
+Creating a pandas series
+Indexing series
+Dataframes
+Creating dataframes from dictionaries
+Importing CSV data files as pandas dataframes
+Reading and summarising dataframes
+Sorting dataframes
